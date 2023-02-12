@@ -1,0 +1,6 @@
+This is the file which is to be shared...
+this is the second linie
+this is the third linie
+this is the fourth linie
+a 5
+this is the fifth linie
